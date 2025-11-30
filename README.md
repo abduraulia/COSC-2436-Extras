@@ -21,3 +21,19 @@ https://leetcode.com/problems/domino-and-tromino-tiling/description/?envType=stu
 https://leetcode.com/problems/unique-paths/description/?envType=study-plan-v2&envId=leetcode-75
 https://leetcode.com/problems/longest-common-subsequence/description/?envType=study-plan-v2&envId=leetcode-75
 https://leetcode.com/problems/edit-distance/description/?envType=study-plan-v2&envId=leetcode-75
+
+
+
+FOR FINAL EXAM:
+https://www.hackerrank.com/challenges/tree-preorder-traversal/problem
+https://www.hackerrank.com/challenges/tree-postorder-traversal/problem
+https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+https://leetcode.com/problems/symmetric-tree/description/
+https://leetcode.com/problems/path-sum/description/
+https://leetcode.com/problems/diameter-of-binary-tree/description/
+https://www.hackerrank.com/challenges/jesse-and-cookies/problem
+https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem
+https://www.hackerrank.com/challenges/bfsshortreach/problem
+https://www.hackerrank.com/challenges/journey-to-the-moon/problem
+https://leetcode.com/problems/clone-graph/description/
+https://leetcode.com/problems/number-of-islands/description/
